@@ -67,12 +67,33 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Cart.aspx" />
+    <Content Include="CartStyle.css" />
     <Content Include="Home.aspx" />
+<<<<<<< Updated upstream
     <Content Include="Products.aspx" />
+=======
+    <Content Include="Images\Jambu 1.jpg" />
+    <Content Include="Images\Jambu.jpg" />
+    <Content Include="Images\pexels-enginakyurt-1435301.jpg" />
+    <Content Include="Images\pexels-julieaagaard-2294477.jpg" />
+    <Content Include="Images\pexels-pixabay-46174.jpg" />
+    <Content Include="Images\pexels-pixabay-65256.jpg" />
+    <Content Include="Images\Rambutan.jpg" />
+    <Content Include="Images\Star Fruit 1.jpg" />
+    <Content Include="Images\Star Fruit.jpg" />
+>>>>>>> Stashed changes
     <Content Include="Styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cart.aspx.cs">
+      <DependentUpon>Cart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cart.aspx.designer.cs">
+      <DependentUpon>Cart.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
