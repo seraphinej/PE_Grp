@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\mastersite.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|c:\\github\\pe group\\pe_grp\\pe_grpproject\\pe_grpproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|C:\\GitHub\\PE Group\\PE_Grp\\PE_GrpProject\\pe_grpproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|c:\\github\\pe group\\pe_grp\\pe_grpproject\\pe_grpproject\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Styles.css",
+              "DocumentMoniker": "C:\\GitHub\\PE Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\Styles.css",
+              "RelativeDocumentMoniker": "PE_GrpProject\\Styles.css",
+              "ToolTip": "C:\\GitHub\\PE Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\Styles.css",
+              "RelativeToolTip": "PE_GrpProject\\Styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-11T09:15:03.183Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
