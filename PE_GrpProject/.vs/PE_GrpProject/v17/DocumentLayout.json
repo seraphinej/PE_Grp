@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub\\PE Group\\PE_Grp\\PE_GrpProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Xin Yi\\Documents\\GitHub\\PE_Group\\PE_Grp\\PE_GrpProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|c:\\github\\pe group\\pe_grp\\pe_grpproject\\pe_grpproject\\mastersite.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|C:\\Users\\Xin Yi\\Documents\\GitHub\\PE_Group\\PE_Grp\\PE_GrpProject\\pe_grpproject\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|c:\\users\\xin yi\\documents\\github\\pe_group\\pe_grp\\pe_grpproject\\pe_grpproject\\mastersite.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\mastersite.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|C:\\GitHub\\PE Group\\PE_Grp\\PE_GrpProject\\pe_grpproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|C:\\Users\\Xin Yi\\Documents\\GitHub\\PE_Group\\PE_Grp\\PE_GrpProject\\pe_grpproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|C:\\GitHub\\PE Group\\PE_Grp\\PE_GrpProject\\pe_grpproject\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0396DA8D-4A9E-408E-B3B6-D8B18FA557AE}|PE_GrpProject\\PE_GrpProject.csproj|solutionrelative:pe_grpproject\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,41 +22,40 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Styles.css",
-              "DocumentMoniker": "C:\\GitHub\\PE Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\Styles.css",
+              "DocumentMoniker": "C:\\Users\\Xin Yi\\Documents\\GitHub\\PE_Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\Styles.css",
               "RelativeDocumentMoniker": "PE_GrpProject\\Styles.css",
-              "ToolTip": "C:\\GitHub\\PE Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\Styles.css",
+              "ToolTip": "C:\\Users\\Xin Yi\\Documents\\GitHub\\PE_Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\Styles.css",
               "RelativeToolTip": "PE_GrpProject\\Styles.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-07-11T09:15:03.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Home.aspx",
-              "DocumentMoniker": "C:\\GitHub\\PE Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Xin Yi\\Documents\\GitHub\\PE_Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\Home.aspx",
               "RelativeDocumentMoniker": "PE_GrpProject\\Home.aspx",
-              "ToolTip": "C:\\GitHub\\PE Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\Home.aspx",
+              "ToolTip": "C:\\Users\\Xin Yi\\Documents\\GitHub\\PE_Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\Home.aspx",
               "RelativeToolTip": "PE_GrpProject\\Home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-11T09:01:50.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T09:01:50.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MasterSite.Master",
-              "DocumentMoniker": "C:\\GitHub\\PE Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\MasterSite.Master",
+              "DocumentMoniker": "C:\\Users\\Xin Yi\\Documents\\GitHub\\PE_Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\MasterSite.Master",
               "RelativeDocumentMoniker": "PE_GrpProject\\MasterSite.Master",
-              "ToolTip": "C:\\GitHub\\PE Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\MasterSite.Master",
+              "ToolTip": "C:\\Users\\Xin Yi\\Documents\\GitHub\\PE_Group\\PE_Grp\\PE_GrpProject\\PE_GrpProject\\MasterSite.Master",
               "RelativeToolTip": "PE_GrpProject\\MasterSite.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
